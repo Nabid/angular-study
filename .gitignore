@@ -9,6 +9,7 @@
 # Dependency directories
 **/node_modules
 **/typings
+**/.vscode
 
 # Optional npm cache directory
 **/.npm
