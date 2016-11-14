@@ -16,3 +16,6 @@
 
 # Optional eslint cache
 **/.eslintcache
+
+# Others
+**/.DS_Store
